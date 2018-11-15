@@ -25,10 +25,14 @@ Site: http://WillpowerStudios.com
 
 YouTube Videos of Project:
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k21Rl7KRAt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/k21Rl7KRAt0
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j_PQewiOI7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/j_PQewiOI7U
 <br>
 
 <br>
 Reading 2 IR sensors for the Willpower Theremin
+<br>
+<br>
+
+<img src="https://github.com/WillpowerStudios/WillpowerThereminArduino01/blob/master/IR-sensors-Arduino-Micro.jpg">"
