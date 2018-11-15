@@ -1,5 +1,6 @@
-// WILLPOWER STUDIOS 
-// WILLPOWER THEREMIN 
+// by WILLPOWER STUDIOS 
+// http://willpowerstudios.com 
+// Support > https://www.patreon.com/WillpowerStudios 
 // 3 SERIAL READS 
 
 // yellow wire in A1
