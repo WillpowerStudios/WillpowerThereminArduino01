@@ -36,3 +36,5 @@ Reading 2 IR sensors for the Willpower Theremin
 <br>
 
 <img src="https://github.com/WillpowerStudios/WillpowerThereminArduino01/blob/master/IR-sensors-Arduino-Micro.jpg">"
+<br>
+<a href="http://WillpowerStudios.com" target="_blank"><img src="https://cdn-images-1.medium.com/max/2000/1*K4iYLZURwaVxDJ4kXXO1Ng.jpeg"></a>
